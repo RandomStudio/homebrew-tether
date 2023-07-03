@@ -4,7 +4,7 @@ class Tether < Formula
   desc "Tether CLI utilities"
   homepage "https://github.com/RandomStudio/homebrew-tether"
   url "https://github.com/RandomStudio/homebrew-tether/releases/download/v0.2.0/tether.tar.gz"
-  sha256 "ee9cc02aa13b9c3735d35bed6dd29f05de69f852623cf3cd56bf78222713db68"
+  sha256 "639a351e33a285ea8a4feb1abfba21499361f00c93eecc573cbf366bbea2d23a"
   version "0.2.0"
 
   def install
